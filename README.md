@@ -19,6 +19,12 @@ A junior FullStack developer also computer science student who is passionate abo
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - ⚡ I love debugging, problem-solving, and experimenting with new tech.
 - ⚙️ Always learning
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paulos-g&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulos-g&layout=compact&theme=radical)
   
 
 ## 📫 Connect with Me
